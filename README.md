@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Laurajcb/Laurajcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Laura Callejas /Laurajcb✨
 
-Here are some ideas to get you started:
+whoami?:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 I consider myself a curious person passionate and committed.
+
+
+const aboutMe = {
+   pronouns: "She" | "Her",
+   basics:         [HTML, CSS, JavaScript],
+   js_frameworks:  [React.js],
+   css_rameworks:  [Bootstrap],
+   database:       [Mysql],
+   backend:        [Python],
+   design:         [Figma]
+   },
+   currentOccupation: ["Learning passionate about what makes me feel hook"],
+   challenge: "become stunning of what I'm doing 💻,
+};
+
