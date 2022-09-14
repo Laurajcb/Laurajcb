@@ -4,9 +4,12 @@ I'm Laura Callejas /Laurajcb✨
 
 whoami?:
 
-- 😄 I consider myself a curious person passionate and committed.
+😄 I consider myself a curious person passionate and committed.
+💻 Finished Software foundations Holberton 
 
 
+
+```
 const aboutMe = {
    pronouns: "She" | "Her",
    basics:         [HTML, CSS, JavaScript],
@@ -17,6 +20,6 @@ const aboutMe = {
    design:         [Figma]
    },
    currentOccupation: ["Learning passionate about what makes me feel hook"],
-   challenge: "become stunning of what I'm doing 💻,
+   challenge: "Become stunning of what I'm doing 💻,
 };
-
+```
