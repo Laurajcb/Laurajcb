@@ -5,6 +5,7 @@ I'm Laura Callejas /Laurajcb✨
 whoami?:
 
 😄 I consider myself a curious person passionate and committed.
+
 💻 Finished Software foundations Holberton 
 
 
