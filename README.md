@@ -20,7 +20,7 @@ const aboutMe = {
    backend:        [Python],
    design:         [Figma]
    },
-   currentOccupation: ["Learning passionate about what makes me feel hook"],
-   challenge: "Become stunning of what I'm doing 💻,
+   currentOccupation: ["Learning passionate about Front-end"],
+   challenge: ["Become stunning of what I'm doing 💻 ],
 };
 ```
